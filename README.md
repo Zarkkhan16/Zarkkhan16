@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Software Engineer specializing in Flutter and Android, building high-performance, cross-platform apps with intuitive user interfaces. I integrate secure authentication and efficient data handling using Firebase and Appwrite, ensuring seamless experiences. With a single codebase, I launch apps on both Google Play Store and the App Store, delivering fast, scalable solutions.
 
 
