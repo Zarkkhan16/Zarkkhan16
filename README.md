@@ -6,7 +6,7 @@ I’m a Software Engineer specializing in Flutter and Android, building high-per
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zark-khan-84bb7b120/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanzark37@gmail.com) 
 
 
-### Core Skills
+### Core Skills:
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
