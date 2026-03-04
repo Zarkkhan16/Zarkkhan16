@@ -2,11 +2,11 @@
 I’m a Software Engineer specializing in Flutter and Android, building high-performance, cross-platform apps with intuitive user interfaces. I integrate secure authentication and efficient data handling using Firebase and Appwrite, ensuring seamless experiences. With a single codebase, I launch apps on both Google Play Store and the App Store, delivering fast, scalable solutions.
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zark-khan-84bb7b120/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanzark37@gmail.com) 
 
 
-### 🚀 Core Skills
+### Core Skills
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
